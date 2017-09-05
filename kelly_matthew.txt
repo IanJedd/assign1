@@ -12,3 +12,5 @@ Schedule:
 	W Data Structures 10-10:50, Data Structures Lab 1:2:50
 	R Software Science 9:30-10:50, Discrete Math 11-12:20
 	F None
+
+Jule
