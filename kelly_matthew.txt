@@ -1,0 +1,14 @@
+Name:
+	Matthew Kelly
+Email:
+	matt1.kelly@umontana.edu
+Cell:
+	406-838-3708
+About:
+	I've got a Pug named Xena. Food, being outdoors, youtube, and memes probably make up most of my time on any day. And I'm looking forward to becoming a computational biologist. 
+Schedule:
+	M Data Structures 10-10:50
+	T Software Science 9:30-10:50, Discrete Math 11-12:20
+	W Data Structures 10-10:50, Data Structures Lab 1:2:50
+	R Software Science 9:30-10:50, Discrete Math 11-12:20
+	F None
